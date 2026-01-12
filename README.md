@@ -1,7 +1,6 @@
 ## Hi there 👋!! This is Prabhashankar 😄
 
-🚀 Python-focused Full Stack Developer  
-🧠 Backend, APIs & scalable web applications  
+🚀 Python-focused Full Stack Developer   
 💻 Exploring Web Development & Open Source  
 🌱 Always learning new technologies
 
@@ -13,6 +12,7 @@
 - 🌱 Currently exploring Next.js, Machine Learning & Image Processing
 - 🤝 Open to collaboration and open-source contributions
 - ⚡ Curious about how things work under the hood
+- 📫 How to reach me 👉 prabhashankarmishra202@gmail.com
 
 ---
 
@@ -48,5 +48,5 @@
 ---
 
 ## 🌐 Connect With Me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/prabha-shankar-830832180/)
-- 📧 Email: prabhashankarmishra202@gmail.com
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />](https://www.linkedin.com/in/prabha-shankar-830832180)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" />](https://www.instagram.com/prabhakar_mishra4real)
