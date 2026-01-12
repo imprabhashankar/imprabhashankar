@@ -48,20 +48,10 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
----
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
-
----
-
 ## 🌐 Connect With Me
-- 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/prabha-shankar-830832180/)
+- 💼 LinkedIn: (https://www.linkedin.com/in/prabha-shankar-830832180/)
 - 📧 Email: prabhashankarmishra202@gmail.com
 
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/imprabhashankar)
+⭐️ From ![YOUR_USERNAME](https://github.com/imprabhashankar)
