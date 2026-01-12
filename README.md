@@ -1,7 +1,6 @@
 ## Hi there 👋!! This is Prabhashankar 😄
 
 🚀 Python-focused Full Stack Developer  
-😁 Passionate about building things with code
 🧠 Backend, APIs & scalable web applications  
 💻 Exploring Web Development & Open Source  
 🌱 Always learning new technologies
